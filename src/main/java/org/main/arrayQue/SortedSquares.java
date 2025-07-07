@@ -17,6 +17,6 @@ public class SortedSquares {
         Arrays.sort(nums);
 
         return nums;
+        }
     }
-}
-
+    
